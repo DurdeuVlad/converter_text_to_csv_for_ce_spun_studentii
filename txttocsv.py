@@ -15,54 +15,74 @@ output_data = []
 # Loop through the lines in the input file
 i = 0
 while i < len(lines):
-    print("SUNTEM PE LINIA", i)
+    #print("SUNTEM PE LINIA", i)
     # Check if this is a question line
     if lines[i].find('.'):
-        question = lines[i].strip()
+        question = lines[i].strip().replace(",",'')
         print("Question detected: "+ question)
         answers = []
         points = []
         # Loop through the next 5 lines to get the answers and points
         for j in range(i+1, i+MAX_ANSWERS):
-            print("SUNTEM cu j PE LINIA", j)
+           # print("SUNTEM cu j PE LINIA", j)
                
             try:
-                line = lines[j].strip().replace('—', '').replace('â€”', '').replace('\"\"', '')
+                line = lines[j].strip().replace('—', '').replace('â€”', '').replace('\"\"', '').replace(",",'').replace("   ",'')
                 answer, point = line.rsplit(' ', 1)
                 print(". ANSWER: "+ answer+ " POINT: "+point)
-                
                 answers.append(answer)
                 answers.append(point)
+                
+                    
             
             except NameError:
-                print("Am gasit NameError")
+                #print("Am gasit NameError")
                 break
             except ValueError:
-                print("Am gasit ValueError")
+                #print("Am gasit ValueError")
                 break
             except IndexError:
-                print("Am gasit IndexError")
+                #print("Am gasit IndexError")
                 break
 
             # Remove the dashes from the answer
+        # Sort answers
+        
         # Add the data to the output list
+        questionnew = ""
+        try:
+            questionnew=answers.pop(0)
+            questionnew+=" "+answers.pop(0)
+            answer_tuples = zip(*[iter(answers)]*2)  # create a list of tuples
+            sorted_tuples = sorted(answer_tuples, key=lambda x: int(x[1]), reverse=True)  # sort the tuples by points
+            sorted_answers = []
+            # sorted_answers.append(questionnew)
+            for answer, points in sorted_tuples:
+                sorted_answers.append(answer)
+                sorted_answers.append(points)
 
-        ok = 1
-        row = [question] + answers
-        if i!=0:
-            row.pop(0)
-            try:
-                row[1] = row[0]+" "+row[1]
-                row.pop(0)
-            except IndexError:
-                print("Am gasit IndexError")
-                ok=0
-        if row!='' and ok == 1:
+            print("Answers: ", answers)
+            print("sorted_tuples: ", sorted_tuples)
+            print("sorted_answers: ", sorted_answers)
+        except IndexError:
+            print("Index error")
+        except ValueError:
+            print("ValueError")
+
+        #sorted_answers.insert(0,questionnew)
+        if question=="":
+            row = [questionnew]+sorted_answers
+        else:
+            row = [question]+sorted_answers
+        
+        if row!='' and row[0]!='':
             print("Bagam linia: ", row)
             output_data.append(row)
+
+            
         
         # Move to the next question
-        print('Mergem pe urmatoarea linie')
+        #print('Mergem pe urmatoarea linie')
         i += j-i
     else:
         # Move to the next line
