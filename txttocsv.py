@@ -33,7 +33,7 @@ while i < len(lines):
         # Loop through the next 5 lines to get the answers and points
         for j in range(i+1, i+MAX_ANSWERS):
            # print("SUNTEM cu j PE LINIA", j)
-            print("lines[j]=",lines[j])
+            #print("lines[j]=",lines[j])
             try:
                if lines[j].find('.')!=-1:
                    print(lines[j])
