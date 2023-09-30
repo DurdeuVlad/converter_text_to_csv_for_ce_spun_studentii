@@ -6,8 +6,16 @@ input_filename = 'input.txt'
 output_filename = 'output.csv'
 
 # Open the input file and read the lines
-with open(input_filename, 'r') as f:
+try:
+    f = open(input_filename, 'r')
     lines = f.readlines()
+except FileNotFoundError:
+    print("File not found, creating new.")
+    f = open(input_filename, 'w')
+    exit(1)
+#with open(input_filename, 'r') as f:
+#    lines = f.readlines()
+
 
 # Create a list to hold the data for the output CSV file
 output_data = []
@@ -17,7 +25,7 @@ i = 0
 while i < len(lines):
     #print("SUNTEM PE LINIA", i)
     # Check if this is a question line
-    if lines[i].find('.'):
+    if lines[i].find('.')!=-1:
         question = lines[i].strip().replace(",",'')
         print("Question detected: "+ question)
         answers = []
@@ -25,9 +33,13 @@ while i < len(lines):
         # Loop through the next 5 lines to get the answers and points
         for j in range(i+1, i+MAX_ANSWERS):
            # print("SUNTEM cu j PE LINIA", j)
-               
             try:
-                line = lines[j].strip().replace('—', '').replace('â€”', '').replace('\"\"', '').replace(",",'').replace("   ",'')
+               if lines[j].find('.')!=-1:
+                   break
+            except IndexError:
+                break
+            try:
+                line = lines[j].strip().replace('-', ' ').replace('â€”', '').replace('\"\"', '').replace(",",'').replace("   ",'').replace("*", '')
                 answer, point = line.rsplit(' ', 1)
                 print(". ANSWER: "+ answer+ " POINT: "+point)
                 answers.append(answer)
@@ -46,6 +58,7 @@ while i < len(lines):
                 break
 
             # Remove the dashes from the answer
+            
         # Sort answers
         
         # Add the data to the output list
@@ -79,6 +92,7 @@ while i < len(lines):
             print("Bagam linia: ", row)
             output_data.append(row)
 
+        
             
         
         # Move to the next question

@@ -1,16 +1,1253 @@
-1.iNTREBARE TEST 1?
-—ABSDA 26
-—SDASDASD 10
-—ADSASDAS 21
-—ADSDWEW 8
-—WDASD 35
+Meci 1
+1.Mancarea preferata de acasa a stundetului?
+* Cartofi prajiti-21
+* Ciorba-8
+* Pizza-10
+* Snitele-35
+* Zacusca-26
+2.Ce tatuaj ti-ai face ca sa nu fii certat de părinți?
+* Sarpe-18
+* Ancora-9
+* Inima-27
+* Data de nastere-24 
+* Zodii-22
+3.Ce își gătește un student după o zi de facultate?
+* Sandwitch-25
+* Omleta-11
+* Mici-6
+* Paste-16
+* Supa la plic-42
+4.Care este primul lucru pe care-l fac bobocii?
+* Incearca sa traduca orarul-18
+* Petrec-24
+* Se pierd in campus-15
+* Isi fac prieteni-22
+* Cauta locuri unde sa bea-21
+5.Completeaza fraza : Popoeye are nevoie de o conserva de spanac tu ai nevoie de o conserva de…..?
+* Bere-51
+* Pateu-23
+* Fasole-16
+* Carne-10
 
-1.iNTREBARE TEST 2?
-—ABSDA 26
-—SDASDASD 10
-—ADSASDAS 21
-—ADSDWEW 8
-—WDASD 35
 
 
 
+Runda fulger meci 1
+1. Ce gasesti la baieti in baia de la camin?
+* Aparat de ras-35
+* Boxeri-8
+* Mizerie-10
+* Haine murdare-25
+* Pasta de dinti-22
+2.Care este bautura preferata a unui student?
+* Bere-48
+* Energizant-17
+* Palinca-12
+* Cafeaua-19
+* Vodka-4
+3.Ce tine un student pe pervaz?
+* Bere-36
+* Papuci-8
+* Haine la uscat-10
+* Scrumiera-22 
+* Mancare-24
+4.Care este motivul pentru care un student se lasa de facultate?
+* Stau in chirie/Nu au cămin-15
+* Nu ii place facultatea-41
+* Restantele-34
+* Prea multe petreceri-10
+5.Ce duci cu tine la primul date?
+* Flori-52
+* Ruj-8
+* Bani-25
+* Guma-2
+* Telefon-13
+
+Meci 2
+1.Ce cumpara un student prima saptamana dupa ce se cazeaza?
+* Mancare-18
+* Frigider-29
+* Cuptor cu microunde-25
+* Hartie igienica-13
+* Bere-15
+2.Cu ce nu te intorci la camin dupa o noapte in club?
+* Colegul de camera-8
+* Papuci-6
+* Telefon-16
+* Portofel-22
+* Chei-36
+* Bani-9
+* Demnitate-2
+3.Cu ce poti sa te dai pe zapada daca nu ai sanie?
+* Pe fund-17
+* Colegul de camera-3
+* Usa-11
+* Sacul-19
+* Schii-29
+* Geaca-8
+* Nasu-9
+4.Ce nu stiu ai tai ca faci la facultate?
+* Mergi in club-39
+* Inveti-4
+* Chiulesti-27
+* Mergi la aparate-23
+* Dormi pe unde apuci-7
+5.Cum face un student curat in camera?
+* Nu face-42                                      
+* Isi face patul-8
+* Goleste scaunul cu haine-31
+* Roaga un coleg-5
+* Arunca gunoiul-14
+        
+
+
+   Runda fulger meci 2 
+1.Cel mai bun inlocuitor pentru mancare este?
+* Apa-5
+* Tarie-3
+* Somnul-25
+* Sucul-4
+* Berea-37
+* Tigara-22
+2.Ce are in poseta o studenta?
+* Telefon-18
+* Tampoane-16
+* Machiaje-35
+* Mancare-10
+* Tigari-15
+* Portofel-6
+3.Daca ai primi o superputere in timpul facultatii care ar fii aceea?
+* Citirea mintiilor-30
+* Memorie vizuala-11
+* Vedere cu raze X-18
+* Super inteligenta-27
+* Teleportare-14
+4.Ce cockatil comanda cel mai des studentul/a in club?
+* Vodka cu suc-18
+* Sex on the beach-23
+* Mohito-16
+* Cuba libre-31
+* Hugo-12
+5.Cu ce poti sa impodobesti un brad?
+* Globuri-42
+* Acadele-19
+* Stea-9
+* Ghirlanda-7
+* Luminite-23
+
+
+
+
+
+
+
+
+
+
+ Meci 3
+1.Care este clubul cel mai frecventat de studenti?
+* Aftereight-44
+* Form-19
+* Diamond-14
+* Jenis-6
+* Euphoria-17
+2.Daca ai descrie viata de student printr-un film Disney care are fii 
+acela?
+* Cars-31
+* Hannah Montana-26
+* High school musical-29
+* Frumoasa si bestia-8
+* Toy story-6
+3.Ce faci cand vine seful de palier sa iti ia legitimatia?
+* Nu i-o dai-16
+* Te bagi in baie-11
+* Fugi de el-40
+* Iti ceri scuze si il rogi frumos sa nu o ia-29
+* Te certi cu el-4
+4.Jocuri video de care auzi cel mai des in curtea caminului?
+* LOL-40
+* Jocuri de noroc-16
+* Fifa-11
+* Jocuri de telefon-6
+* CS:GO-29
+5.Ce face un student cand ramane fara bani?
+* Cerseste-8
+* Suna pe Parintii/Neamuri-38
+* Se apuca de lucru-21
+* Se imprumuta de la colegi-27
+* Doarme-6
+
+
+
+
+ Runda fulger Meci 3
+1.Ce fac studentii cand este prea cald in camera?
+* Ies la tigara-16
+* Se dezbraca-25
+* Deschide usa sa faca curent-38
+* Cumpara ventilatoare-3
+* Beau ceva rece-18
+2.Pe ce se cearta colegii/colegele de camera?
+* Mancare-20
+* Baie-15
+* Hartie igienica-7
+* Baieti-5
+* Spatiu in camera-28
+* Curatenie-25
+3.Spune-mi un miors care te-ar soca sa vezi la un deodorant?
+* Ulei ars- 18
+* Benzina-15
+* Transpiratie-32
+* Mancare gatita-24
+* Castraveti murati-11
+4.Ce ai voie sa faci cand esti mic dar nu mai ai voie dupa ce cresti?
+* Sa urli prin casa-11
+* Sa faci treaba mare/mica in pantaloni-31
+* Sa atingi femei necunoscute-22
+* Sa jignesti persoane-17
+* Sa dormi cat vrei-19
+5.Ce ar cumpara un student daca ar fii orice  XXL la Lidl?
+* Alcool-30
+* Tigari-29
+* Pateuri-6
+* Hartie igienica-10
+* Pizza-3
+* Foietaje-22
+
+
+
+
+
+
+
+
+Meci 4
+1.Ce fac studentii joia?
+* Dorm-18
+* Beau-38
+* Pleaca acasa-16
+* Lucruri ilegale-3
+* Ies la date-25
+2.Ce scuze ai cand te prinde portarul si nu stai in camin?
+* Maine ma mut-20
+* Nu stau mult-28
+* Sunt ruda-15
+* Il dai palinca-25
+* II zici ca ai de dus un pachet-12
+3.Ce si-ar dori un student sa vada in pachetul primit de acasa?
+* Tigari-15
+* Snitele-24
+* Zacusca-18
+* Gem-11
+* Palinca-32
+4.Cum incalzeste un student mancarea daca nu are cuptoru cu micorunde?
+* Fier de calcat-19
+* Calorifer-31
+* Laptop-11
+* La soare-17
+* In oficiu-22
+5.Care este miniciuna pe care o spune un student cel mai des?
+* Nu m-am trezit-22
+* E doar un prieten-12
+* Doar o bere-26
+* E ultima tigara-23
+* Bag numa 10 lei-17
+
+
+
+
+
+
+
+
+Runda fulger meci 4
+1.Ce nu ai vrea sa vezi pe masina in parcare?
+* Gainat-11
+* Zgarieturi-31
+* Amenda-26
+* Ca nu e acolo-6
+* Stergatoare rupte-4
+* Geamuri sparte-22
+2.De la care fast food/restaurant isi comanda cel mai des stundentul macare?
+* McDonald’s-27
+* KFC-24
+* Big Belly-18
+* Mama Manu-22
+* Taco Bell-9
+3.Motiv pentru care se muta studentii de la camin in chirie?
+* Nu le place in camin-17
+* Nu se inteleg cu colegii/colegele-51
+* Au bani-6
+* Este dat afara-16 
+* Ca sa stea cu prieteni-10
+4.Cum motivezi absentele la laboratoare?
+* Inmormantare
+* Cauza medicala
+* S-o stricat busu
+* O mica atentie la profi
+* Nu ai avut bani de Bolt
+5.Ce poti sa pierzi in club?
+* portofelul-30
+* Gagica-9
+* Tigarile-22
+* Ochelarii de soare-19
+* Bijuterii-14
+* Bani-6
+
+
+
+
+
+
+ Meci 5
+1.Ce faci cand strici ceva in camera de camin ?
+* Treci peste-5
+* Dai vina pe altcineva-18
+* Repari-29
+* Ascunzi-37
+* Chemi un coleg in ajutor-11
+2.Ce nu ti-ai dori sa gasesti intr-o camera de camin cand te cazezi?
+* Sobolani-6
+* Gandaci-28
+* Paturi lipsa-10
+* Mizerie-22
+* Wc stricat-14
+* Mobila stricata-20
+3.Esti la un date si ti se strica fermuarul de la pantaloni, ce faci ?
+* Improvizezi cu ce ai laindemana-25
+* Pui pe el/ea sa iti cumpere alti pantaloni-17
+* Mergi sa te schimbi-16
+* Chemi un prieten sa iti aduca alti pantaloni-23
+* Lasi asa si speri sa nu vada-19
+4.Unde parcheaza un student masina cand ajunge la cluj?
+* In parcare la lidl-15
+* Pe locurile cu abonament-18
+* Pe trotuare-33
+* La vivo-26
+* Pe strazi de langa camin-8
+5.Cum te imprietenesti cu colegii noi de camera?
+* Vorbiti pe grupul de whats up-5
+* Iesi la cafea-20
+* Le dai zacusca-10
+* Beti impreuna-27
+* Ascultati manele -16
+* Le dai tigari-22
+Runda fulger meci 5
+1.Unde combina un student/a cel mai usor?
+* La cantina-11
+* In curtea caminului-18
+* Party-uri-26
+* Aplicatii de date-23
+* In organizatii-22
+2.Cu ce pleaca un student acasa?
+* Cu bagaje-41
+* Tren-16
+* Prieteni-19
+* Sticle goale-4
+* Haine murdare-12
+* Portofelul gol-8
+3.Ce personaj marvel cunosti?
+* Spider-man-29
+* Iron-man-18
+* Hulk-20
+* Captain america-10
+* Thor-15
+* Black panther-8
+4.Ce tigari fumeaza un student?
+* Marlboro-18
+* Kent-27
+* Rulate-14
+* Glo/Iqos-21
+* Altora-6
+* Sobraine10
+* Cele mai ieftine-4
+5.Ce faci cand ramai singur acasa peste weekend?
+* Te joci-22
+* Dai party-28
+* Chemi iubitul/iubita-20
+* Incerci sa nu dai foc la ceva-14
+* Dormi gol/goala-10
+* Nu raman-6
+
+
+
+
+Meci 6
+1.Ce face un student ca sa adoarma cand e galagie?
+* Isi pune casti-29
+* Cumpara dopuri de urechi-7
+* Striga pe geam la cine face galagie-27
+* Tace si rabda-16
+* Se plange la portari/sefi de camin-21
+2.Care sunt motivele pentru care se cearta fetele in camera de camin?
+* Spatiu-28
+* Cine face dus
+* Mancare-8
+* Dezordine-35
+* Baieti-9
+* Par pe jos-18
+3.Ce sa nu faci cand te opreste politia pe jos sau cu masina ?
+* Nu fugi-22
+* Nu faci pe destptul/arogantul-31
+* Nu injuri-17
+* Nu deschizi berea-16
+* Nu te dai altcineva-14
+4.Vrei sa inventezi cocktail-ul studentului ce pui in el?
+* Vodka-26
+* Whiskey-17
+* Ce ai in frigider-20
+* Lacrimi din sesiune-23
+* Parfum de la aparate-14
+5.Cum iti dai seama ca un student are restanta ?
+* Cerseste-9
+* Il vezi ca cauta chirie-29
+* Se imbata-33
+* Ii numeri lacrimile-11
+* E in cluj peste vara-18
+
+
+
+
+Runda fulger meci 6
+1.Ce faci cand uiti cheile de la camera?
+* Dormi in curte pe banca-9
+* Suni colegul de camera-35
+* Suni iubita/iubitul-15
+* Mergi la admin-7
+* Te plimbi pana vine colegu-12
+* Mergi la vecini-17
+* intrii prin duplex-5
+2. Ce se fura in camin?
+* Frigiderul-23
+* Oale-21
+* Tigai-13
+* Haine -5
+* Mancare-15
+* Tigari-9
+* Scaune-14
+3. Ce faci dupa ce ai scapat de un examen?
+* Te imbeti-30
+* Iti suni  parinti-23
+* Razi de colegii care nu au trecut-15
+* Te pui la somn-18
+* Pleci acasa-14
+4. Ce gasesti in frigiderul unui student?
+* Gandaci-8
+* Zacusca-20
+* Vinete-15
+* Mancare stricata-25
+* bere-32
+5. Cum copiezi la un examen?
+* Ceas smart-14
+* Te ceri la baie-9
+* Copiute-24
+* Te pui langa cineva care a invatat-12
+* Te uiti pe telefon-31
+* Folosesti casca-10
+
+
+Meci 7
+1.Ce gasesti sub patul de la camin?
+* Haine-15
+* Oale-10
+* Valize-12
+* Adidasi-20
+* Praf/mizerie-34
+* Bani marunti-9
+2.Completeaza fraza: am intarziat la facultate pentru ca?
+* A intarziat/am ratat Busu-39
+* Am fost la aparate-7
+* Am adormit-28
+* Am uitat-15
+* Am prins trafic-11
+3.Mancarea pe care se bat studentii la cantina?
+* Crispy-4
+* Snitel-33
+* Paste-24
+* Chiftele cu sos-28
+* Cartofi prajiti-5
+* Mici-6
+4.Ce cumperi pentru a face gratarul ideal?
+* Sosuri-6
+* Mici-22
+* Bere-31
+* Piept de pui-5
+* Ceafa de porc-19
+* Cartofi-17
+5.Ce faci cand portarul iti zice sa dai muzica mai incet?
+* II dai de baut-35
+* O dai mai tare-14
+* Incui usa-8
+* Astepti sa plece si dupa o dai tare-39
+* Asculti de el-4
+
+
+Runda fulger meci 7
+1.Ce animal are pene?
+* Gaina-53
+* Papagal-14
+* Porumbel-15
+* Rata-9
+* Bufnita-5
+* Strut-4
+2.Pizza preferata a studentului?
+* Porumb si sunca-14
+* Capriciosa-13
+* Diavola-22
+* Prosciutto e funghi-41
+* Cu de toate-4
+* Margherita-6
+3.Ce faci cu banii primiti de la pariniti?
+* Cumperi de mancare-12
+* Cumperi tigari-18
+* Cumperi Bautura-33
+* Iesi in oras-11
+* Mergi la aparate-14
+* Platesti restantele-7
+* Bagi Combustbil-5
+4.Ce scuza folosesti ca sa nu mergi in oras cu prietenii?
+* Am de invatat-18
+* Ma joc-12
+* Mi somn-38
+* Nu am bani-24
+* Mi rau-8
+5.Sportul preferat de studenti?
+* Baschet-25
+* Fotbal-34
+* Chiulitul-14
+* Alergatul dupa bus-18
+* voley-9
+
+
+
+
+
+
+Meci 8
+1.Ce animal de companie ai tine intr-o camera de camin?
+* Soareci-7
+* Pisica-26
+* Caine-19
+* Testoasa-23
+* Hamster-16
+* Sarpe-8
+2.Completeaza fraza: Nu am iesit toata ziua din casa, toata ziua am….
+* Baut-41
+* Dormit-17
+* Vomitat-13
+* Invatat-14
+* M-am jucat pe laptop-9
+* Stat pe telefon-6
+3.Lucruri pe care le poate face un chelner daca il enervezi?
+* Nu iti aduce mancarea-7
+* Pune ceva in mancare-33
+* Varsa ceva pe tine-20
+* Te pune sa platesti mai mult-12
+* Scuipa in mancare-28
+4.Care este cea mai buna bere?
+* Ciucas-21
+* Ursus-19
+* Haineken-16
+* Aia rece-11
+* Moretti-15
+* Desperados-18
+5.Ce faci cand cineva se baga peste tine la programul de spalat?
+* Ii scot hainele pe hol-20
+* Anunti seful de palier-28
+* Te certi cu el-33
+* Intrii peste el in camera12
+* II murdaresti hainele-7
+
+
+
+
+
+
+Runda fulger meci 8
+1.Gesturi romantice pe care poate face un baiat ?
+* Ii cumpara flori-27
+* II face cadou un animal de companie-14
+* Cina romantica-24
+* Ii cumpara ciocolata-19
+* Petrece mult timp cu ea-16
+2.Foietajul preferat de studenti de la lidl?
+* Pizza-39
+* Cu crenvusti-25
+* Calzone-18
+* Sunca si branza-10
+* Burek-8
+3.De ce iti era frica cand erai copil?
+* Intuneric-35
+* Bataie-21
+* Caini-14
+* Tigani-12
+* Lingura de lemn/liniar-18
+4.Sporturi care folosesc mingi?
+* Fotbal-29
+* Baschet-27
+* Voley-18
+* Handbal-16
+* Tennis-5
+* Tennis de masa-4
+5.Care animal are ochii mari?
+* Pisica-19
+* Elefantul-17
+* Cameleon-22
+* Calul-31
+* Girafa-11
+
+
+
+
+
+
+
+
+
+
+Meci 9
+1.Ce faci cand stii ca nu treci un examen?
+* Rugaciuni-31
+* Nu merg-28 
+* Dau mita-17
+* Te pregatesti pentru restanta-15
+* Numeri creditele-9
+2.Colpeteaza fraza : Nu am putut sa ajung la facultate azi pentru ca…. ?
+* Eram mahmur-45
+* Nu am auzit alarma-23
+* Am iesit la cafeluta-16 
+* Sunt bolnav-11
+* Am fost la lucru-5
+3.Unde poti sa intrii emotionat dar apoi iesi fericit?
+* La examen-28
+* La primul curs-19
+* In camera de camin-13
+* La aparate-17
+* La iubit/iubita acasa-23
+4.Cum poti sa nu adormi la cursuri/laboratoare?
+* Bei cafea/energizant-32
+* Asculti muzica-19
+* Te speli pe fata-7
+* Iesi la tigara-29
+* Stai pe telefon-13
+5. Daca romanii au talen ar numii cel mai talentat judet care ar fii acela?
+* Cuj-27
+* Mures-16
+* Braila-8
+* Salaj-26
+* Bistrita-23
+
+
+
+
+Runda fulger meci 9
+1.Locul preferat pentru studenti sa isi petreaca timpul liber?
+* Infinity-31
+* Superbet-18
+* In campus-9
+* Sediu OSUT-10
+* VIVO/Iiulius-26
+* Parcul central-6
+2.Ce ii faci masinii ca sa stie toata lumea ca este a ta?
+* II cumperi jante-21
+* Pui stickere-16
+* O vopsesti cu mai multe culori-15
+* Ii pui evacuare-19
+* Modifici caroseria-18
+* Ii pui sistem audio-11
+3.Unde gasesti cea mai buna Shaorma din Cluj?
+* Rosa-33
+* Greco-28
+* Mama Manu-20
+* Baneasa-12
+* Sultan-7
+4.Ce faci cand trebuie sa ajungi undeva la o ora tarzie si nu dai de Bolt/Uber?
+* Nu mai mergi-11
+* Mergi pe jos-15
+* Chemi un prieten cu masina-39
+* Chemi taxi-7
+* Iei trotineta-28
+5.Unde ascunzi bautura in timpul raziei?
+* Sub saltea-22
+* In baie-41
+* IN WC-4
+* Pe pervaz-14
+* In dulap-13
+* In valiza-6
+
+
+
+
+
+
+Meci 10
+1.Ce poate invata un boboc de la un student de anul 4?
+* Sa chiuleasca-32
+* Sa treaca de primul an-14
+* Cum sa combine-27
+* Cum sa nu isi piarda legitimatia-16
+* Locuri de baut-11
+2.Ce nu vrei sa auzi langa tine intr-o baie publica?
+* Imi dai hartie?19
+* Fanfari13
+* Gemete-28
+* Muzica-17
+* Diaree-23
+3. Ce poti sa faci ca sa te distrezi la o petrecere?
+* Sa fumezi-27
+* Sa bei-43
+* Sa dansezi-19
+* Sa combini-8
+* Sa faci scandal-3
+4.Unde mergi dupa ce iesi din club la 5 dimineata?
+* La mama manu-29
+* La camin-22
+* La fata/baiatul care ai combinat-26
+* La Hotel-8
+* La fosta/fostul-15
+5.O minciuna pe care ar zice-o un baiat la primul date?
+* Nu a facut dragoste-42
+* Am BMW-9
+* Doar cu tine vorbesc-35
+* Esti speciala-8
+* O sa te sun eu-6
+
+
+
+
+
+
+
+
+
+
+Runda fulger meci 10
+1.Unde o scoti la primul date?
+* Camera de camin-29
+* In Parc-16
+* Curtea caminului-21
+* Cantina-7
+* restaurant-27
+2.Primul lucru pe care il cumpara un milionar?
+* Masina-35
+* Casa-28
+* Avion-18
+* Iaht-12
+* Insule-7
+3.Ce poti sa joci cu un pachet de carti?
+* Septica-17
+* Poker-31
+* 21-14
+* Barcuta/Autobuz-16
+* Cruce-22
+4.Care shot se bea cel mai des in club?
+* Kamikaze-26
+* Tequila-23
+* Jegermeister-20
+* Vodka-17
+* Nu beau-14
+5.Unde gaseti bere ieftina in Cluj?
+* Lidl-29
+* Carrefour-18
+* Colegi de camin-9
+* Infinity-33
+* La crasme/baruri-11
+
+
+
+
+
+
+
+
+Meci 11
+1.Ce poate sa scoata un magician din palarie?
+* Iepure-35
+* Floare-26
+* Porumbel-21
+* Raspunsuri la examen-8
+* Bere-10
+2.Ce faci cand te duci la masina dar nu mai e acolo?
+* Sun colegii de camera-24
+* Plangi-8
+* Suni la politie-27
+* Suni parintii-21
+* O cauti-10
+3.Ce electrocasnic gasesti intr-o camera de camin?
+* Microunde-22
+* Frigider-27
+* Toaster-24
+* Fierbator-18
+* Aparat de cafea-9
+4.Care este bautura care te-ar face sa uiti unde iti este casa?
+* Cocktail cu de toate-22
+* Rom-15
+* Palinca-24
+* Shoturi-21
+* Orice vin-18
+5.Ce faci cand vezi un prieten ca intra intr-o sala de jocuri?
+* Merg si eu-51
+* II aduc o bere-10
+* II dau bani-17
+* Nu il las sa intre-16
+* Il scoti afara-6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Runda fulger meci 11
+1.Animale pe care le vezi cel mai des la tara?
+* Pisici-25
+* Gaini-37
+* Porci-22
+* Vaci-5
+* Caini-4
+* Iepuri-3
+2.Cand intra cel mai bine cafeaua?
+* Dimineata-29
+* Dupa betie-13
+* Cand chiulesti-25
+* In sesiune-15
+* La curs-18
+3.Ce poti gati fara reteta?
+* Omleta-23
+* Popcorn-27
+* Supa la plic-7
+* Sa fac spume daca stiu-4
+* Cartofi prajiti-39
+4.Legume verzi?
+* Brocoli-31
+* Varza-42
+* Castravete-5
+* Salata-14
+* ardei-8
+5.Care vacanta este preferata studentilor?
+* De vara-31
+* Paste-16
+* Pana la sesiune-23
+* De la inceputul anului-12
+* Intersemestriala-18
+
+
+
+
+
+
+Meci 12
+1.Ce mijloc de trasnport foloseste un student?
+* Bus-30
+* Tren-11
+* Trotineta-18
+* Bolt/Uber-27
+* Nu foloseste-14
+2.Cat de des face un student/a curat in camera?
+* Niciodata-42
+* O data pe luna-23
+* Fiecare vineri-7
+* O data pe semestru-19
+* Cand se decazeaza-9
+3.Ce se intampla cand se ia curentul in camin?
+* Aprinzi o lumanare-17
+* Se arunca chestii pe geam-44
+* Pica netul-19
+* Ies afara-14
+* Incerci sa adormi-6
+4.Ce faci daca colegul de camera doarme si te-a incuiat afara?
+* Mergi la vecinu-29
+* Incerci sa intrii prin duplex-26
+* Bati la usa pana se trezeste-31
+* Il suni-8
+* Stai in fata usii-6
+5. Ce faci cand primesti 5 septari la aparate?
+* Ma imbat-29
+* Bag toti banii inapoi-40
+* Imi cumpar haine-16
+* Fac cinste la prieteni-11
+* Comand mancare-4
+
+
+
+
+
+
+Runda fulger meci 12
+1.Unde te ascunzi daca vine adminul si nu esti din camin?
+* In tufis-12
+* Sub pat-33
+* In baie-28
+* In dulap-19
+* Pe scara de incendiu-8
+2.Ce faci cand colegul de camera sforaie?
+* II pui perna pe fata-3
+* Ii dai palme-8
+* Il strangi de nas-38
+* Il trezesti-25
+* Te muti-16
+3.La cine apelezi cand ai nevoie de bani?
+* Parinti-28
+* Colegii de camera-25
+* Fostul/fosta-12
+* Iubitul/iubita-20
+* Bunici-15
+4.Ce faci ca sa nu se prinda parintii ca ai fumat tigari?
+* Nu mergi acasa-15
+* Te parfumezi-32
+* Iei guma-24
+* Mananci-18
+* Te stergi cu frunze-11
+5.Ce faci cand e coada la Mec in Manastur?
+* Astept-17
+* Merg in Mihai VIteazul-22
+* Mananc zacusca de acasa-11
+* Merg altundeva-31
+* Comand-19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meci 13
+1.Unde lucreaza un student in timpul facultatii?
+* Bosch-12
+* Profi-22
+* Mega-17
+* Tazz/Glovo/BoltFood-26
+* Bolt-23
+2.Completeaza propzitia: Niciodata nu poti sa ai prea multe….?
+* Tigari-29
+* Restante-11
+* Femei-18
+* Beri-37
+* Mancare-7
+3.Ce schimbi in casa cand renovezi?
+* Mobila-26
+* Geamuri-18
+* Peretii-23
+* Perdele-11
+* Gresia-22
+4.Dupa sarbatori te intorci la camin, ce mancare duci de acasa?
+* Sarmale-25
+* Salata de Beouf-23
+* Cozonac-19
+* Ciorba-17
+* Aperitive-16
+5.Intrii in curtea caminului ce fel de muzica poti sa auzi?
+* Manele-33
+* Rock-8
+* Trap-26
+* Minimale-18
+* Rap-15
+
+
+
+
+
+
+
+
+
+
+
+
+Runda fulger meci 13
+1.Ce culoare vezi pe semnele de circulatie?
+* Verde-41
+* Rosu-24
+* Galben-17
+* Nu vad-6
+* Alb-12
+2.Ce pasare are picioare scurte?
+* Rata-16
+* Gaina29
+* Porubmbelul-21
+* Pinguinul-27
+* Gasca-7
+3.Ce poate fii stors?
+* Lamaia-35
+* Creierul-18
+* Nervii-12
+* Sosete-7
+* Carpa-28
+4.Ce poti sa mai ti in portofel pe langa bani?
+* Permis-31
+* Buletin-22
+* Carduri-16
+* Poze-17
+* Icoane-14
+5.Ce forma poate avea un jeleu pentru copii?
+* Delfin-20
+* Crocodil-17
+* Soarece-14
+* Rama-26
+* Vacuta-23
+
+
+
+
+
+
+
+
+Meci 14
+1.Ce obiect pe care il gasesti in pod iti trezeste amintiri din copilarie?
+* Ursulet de plus-18
+* Bicicleta-11
+* Poze vechi-29
+* Jucarii-33
+* Mingi-9
+2.Completeaza fraza: As manca niste usturoi cu….
+* Cartofi-39
+* Crispy-28
+* Gratar-15
+* Peste-11
+* Paine prajita-7
+3.Inafara de telefon ce mai sta la incarcat?
+* Laptopul-33
+* Boxa-28
+* Iqos-24
+* Tableta-4
+* Ceas-11
+4.Ce verifici de doua ori inainte de a merge la culcare?
+* Usa-31
+* Aragazul-17
+* Colegul-11
+* Telefonul-22
+* Alarma-19
+5.Ce ai prajit de miroase pe tot palierul?
+* Peste-12
+* Cartofi prajiti-17
+* Mici-38
+* Colegu-6
+* Vinete-27
+
+
+
+
+Runda fulger meci 14
+1.Cu ce obiecte de firma le place studentilor sa se laude?
+* Papuci-39
+* Masini-35
+* Ceasuri-4
+* Laptop-8
+* Haine-14
+2.O leguma pe care poti sa o gasesti intr-o bautura alcoolica?
+* Morcov-7
+* Castravete-33
+* Rosii-20
+* Ridichie-12
+* Ardei iute-28
+3.Ce merge bine cu gheata?
+* Limonada-19
+* Whiskey-24
+* Rom-14
+* Cola-27
+* Sucuri naturale-16
+4.Ce culoare porti ca sa iesi in evidenta?
+* Rosu-18
+* Roz-39
+* Galben-25
+* Verde-10
+* Albastru-8
+5.Inafara de geaca ce mai pui in cuier?
+* Halatul de baie-21
+* Prosop-35
+* Ghiozdan-18
+* Umbrela-14
+* Clop-12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meci 15
+1.Ce poti sa uiti la un prieten/a in camera dupa o petrecere?
+* Telefon-27
+* Portofel-16
+* Chei-18
+* Sutienul-10
+* incarcatorul-29
+2.Ce cumperi la bax ca sa iti ajunga mult timp?
+* Bere-31
+* Apa-9
+* Ulei-15
+* Tigari-28
+* Hartie igienica-17
+3.Ce rontai la un film?
+* Popcorn45
+* Chipsuri-23
+* Samanta-16
+* Napolitane-5
+* Bomboane-11
+4.Completeaza fraza: Daca nu am oglinda nu pot sa…
+* Ies din casa-17
+* Ma machiez-28
+* Ma Rad-23
+* Imi aranjez parul-19
+* Ma vad-13
+5.De ce nu ai manca ceva gatit de un prieten?
+* Ajung la spital-19
+* Nu stie sa gateasca-32
+* Nu arata bine-29
+* Miroase ciudat-13
+* E plin de taieturi de cutit-7
+
+
+
+
+
+
+
+
+
+
+Runda fulger meci 15
+1.Ce planta se foloseste la ceai?
+* Menta-27
+* Musete-26l
+* Lavanda-8
+* Tei-23
+* Urzica-16
+2.Ce poti sa vezi cand mergi la o balta?
+* Pesti-32
+* Apa-27
+* Barci-11
+* Pescari-16
+* Undite-14
+3.Ce faci cu hainele pe care nu le mai porti?
+* Le arunc-23
+* Le donez-19
+* Fac carpa-17
+* Le port la tara-13
+* Le dau la frati/surori-28
+4.Cartofii prajiti merg bine cu….?
+* Branza-19
+* Ceafa de porc-27
+* Mici-43
+* Ketchup-8
+* Maioneza-3
+5.In ce nu te poti duce imbracat la o sedinta?
+* Pijamale-29
+* Slapi-8
+* Costum de baie-26
+* Chiloti-22
+* Tricou cu desene/cuvinte obscene-15
+
+
+
+
+
+
+
+
+
+
+ Meci 16
+1.Colegul tau de camera a scos multi bani la aparate cu ce face cinste pentru a sarbatorii?
+* Mancare8
+* Nu face-35
+* Bere-42
+* Tigari-9
+* Bilete in club-6
+2.Completeaza fraza: S-a terminat vara asa ca pana la anul nu o sa mai folosesc…
+* Colacul-21
+* Costumul de baie-29
+* Pantaloni scurti-16
+* Crema solara-27
+* Ochelarii de apa-7
+3.Din ce material ar fii ciudat sa fie facuta lenjeria intima?
+* Cauciuc-31
+* Lemn-22
+* Fier-17
+* Sticla-16
+* piatra-14
+4.Ce bei dimineata daca nu ai cafea?
+* Apa-14
+* Energizant-26
+* Bere-23
+* Cola-20
+* Suc natural-17
+5.Care este primul lucru pe care il face o fata dupa ce este parasita?
+* Bea-18
+* Plange-29
+* Iese cu fetele in oras-33
+* Se vopseste-11
+* Mananca dulciuri-9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Runda fulger meci 16
+1.Ce spala un lenes in casa doar de sarbatori?
+* Chilotii-28
+* Cearceaful-15
+* Pe el-39
+* Covoare-11
+* Vasele de sarbatori-7
+2.Ce se poate pune la murat?
+* Castravete-33
+* Varza-28
+* Gogonele-24
+* Ardei-11
+* Ceapa-4
+3.Ce fruct nu creste in pom?
+* Ananas-31
+* Capsuni-22
+* Zmeura-19
+* Mure-11
+* Pepene rosu-17
+4.Ce se poate pune pe perete?
+* Tablou-38
+* Ceas-17
+* Oglinda-12
+* Poze-27
+* Icoana-6
+5.De care animal se tem oamenii?
+* Leu-39
+* Soarece-14
+* Serpi-8
+* Rechin-4
+* Ursi-35
