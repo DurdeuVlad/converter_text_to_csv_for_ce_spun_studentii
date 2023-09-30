@@ -1,6 +1,6 @@
 import csv
 
-MAX_ANSWERS=8
+MAX_ANSWERS=15
 
 input_filename = 'input.txt'
 output_filename = 'output.csv'
@@ -33,8 +33,10 @@ while i < len(lines):
         # Loop through the next 5 lines to get the answers and points
         for j in range(i+1, i+MAX_ANSWERS):
            # print("SUNTEM cu j PE LINIA", j)
+            print("lines[j]=",lines[j])
             try:
                if lines[j].find('.')!=-1:
+                   print(lines[j])
                    break
             except IndexError:
                 break
@@ -64,8 +66,8 @@ while i < len(lines):
         # Add the data to the output list
         questionnew = ""
         try:
-            questionnew=answers.pop(0)
-            questionnew+=" "+answers.pop(0)
+            #questionnew=answers.pop(0)
+            #questionnew+=" "+answers.pop(0)
             answer_tuples = zip(*[iter(answers)]*2)  # create a list of tuples
             sorted_tuples = sorted(answer_tuples, key=lambda x: int(x[1]), reverse=True)  # sort the tuples by points
             sorted_answers = []
